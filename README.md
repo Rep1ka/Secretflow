@@ -24,3 +24,5 @@
 
 ## 项目参考
 实验环境和实例参考主要来自https://www.secretflow.org.cn/zh-CN/docs/secretflow/v1.9.0b1/
+
+实验使用隐语平台环境，
